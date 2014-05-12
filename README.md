@@ -1,12 +1,12 @@
 PIX2-esilv
 
-Contrôle du niveau d'eau
+Dispositif connecté de contrôle du niveau d'eau 
 
  
 
 1. Croquis
 
-Mettre l'image de son croquis 
+image de du croquis : http://hpics.li/e45706a
 
  
 
@@ -14,28 +14,35 @@ Mettre l'image de son croquis
 
 2.1. Quoi ? 
 
-Mon objet est décomposé en deux parties: 
-la première partie est une sorte d'autocollant ou de pastille sur lequelle une onde vas rebondir et être renvoyé à l'emetteur
-la 2ème partie est donc composé de l'emetteur de l'onde et d'une composante qui vas annalyser si il y a eu un retour de l'onde ou pas
+Dispositif permettant de remplir tout type de gros récipient ou reservoir et qui prévien l'utilisateur lorsque le niveau d'eau atteind une limte fixé par l'utilisateur lui même.
  
 
 2.2. Pourquoi ? 
 
-L'intêret est de pouvoir remplir n'importe quelle type de récipient avec un liquide  (parfois cela peut prendre du temps) et de coller
-une pastille à l'endroit ou l'on veut que l'eau s'arrête de couler. Lorsque le liquide atteindra ce niveau, l'utilisateur sera
-alerté sur son mobile et pourra éventuelement consulter des informations relatives au remplissage du récipent.
+L'intêret est de pouvoir contrôler le niveau d'eau ( ou d'un autre liquide non corrosif) de n'importe quelle type de récipient. Prenons l'exemple d'une piscine gonflable 
+de 2000 litres, l'utilisateur sait pertinement que le remplissage prendra plusieurs heure et n'a pas envie de constamment venir verifier le niveau d'eau de la piscine. Il
+souhaite réaliser une autre activitée pendant ce temps la.
+Il vas donc placer un pointeur laser à l'endroit ou il veut que l'eau s'arrête de couler. Lorsque le liquide atteindra ce niveau, l'utilisateur sera
+alerté sur son mobile et pourra éventuelement consulter des informations relatives au remplissage du récipent (tel que la température) et pourra bien évidemment aller stopper 
+le remplissage manuelement. 
+L'interêt est donc le fait que le dispositif est adapté à tout type de contenant.
 
  
 
 2.3. Pour qui ? 
 
-Un par
+Un particulier souhaitant remplir tout type de contenant avec un liquide quelconque et qui voudrais gagner du temps et faire autre chose pendant le remplissage. 
 
  
 
 2.4. Comment ? 
 
-Description en quelques phrases du mode de fonctionnement de l'objet. 
+Mon objet est décomposé en trois parties: 
+la première partie est une sorte de pointeur laser qui se colle sur une paroi et vas donc pointer un faisceau laser vers un capteur laser fixer sur une autre paroi.
+la 3ème partie du dispositif est une plateforme flottante. Lorsqu'elle se positionnera sur la trajectoire du faisceau laser elle alertera l'utilisateur que le volume
+d'eau souhaité est atteind.
+Cette plateforme est donc composé d'un capteur de température et d'un dispositif relié à la fois au capteur laser et au téléphone de l'utilisateur, le tout est fixé à un flotteur.
+Une application mobile est donc nécessaire pour alerter l'utilisateur et lui donner des informations relatif au remplissage du reservoir.
 
  
 
@@ -43,23 +50,12 @@ Description en quelques phrases du mode de fonctionnement de l'objet.
 
 4.1. Cas d'utilisation 
 
-Mettre l'image des cas d'utilisation fabriquer à l'aide de Visual Studio 
+ lien de l'image : http://hpics.li/97b294f
 
- 
 
 4.2. Diagramme états-transitions 
 
-A faire : 
-
-Installer Visio depuis Dreamspark. 
-
-Installer le modèle UML 2.2 dans Visio : http://softwarestencils.com/uml/index.html 
-
- 
-
-Mettre l'image du diagramme états-transitions fabriquer à l'aide de Visio avec le modèle UML 2.2. 
-
- 
+ lien de l'image : http://hpics.li/49dbabc
 
 4. Description matériel 
 
