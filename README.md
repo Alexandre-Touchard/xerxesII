@@ -61,9 +61,7 @@ Une application mobile est donc nécessaire pour alerter l'utilisateur et lui do
 
 4.1. Schéma Gadgeteer et électronique de l'objet 
 
-Insérer l'image obtenu à travers le designer Gadgeteer 
-
-(et si nécessaire le début du schema électronique des modules que vous devrez fabriquer) 
+http://hpics.li/46f6f31
 
  
 
