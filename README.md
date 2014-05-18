@@ -67,14 +67,10 @@ http://hpics.li/46f6f31
 
 4.2. Liste des éléments à acheter pour le fabriquer 
 
-Liste du matériel avec pour chaque pièce : 
+http://www.lextronic.fr/P1503-carte-transpondeur-rfid-card1.html  Transpondeur RFID à placer à l'endroit ou le niveau d'eau
+sera détécté
 
-*le lien vers le datasheet ou la documentation de chaque élément. 
-
-*le lien vers la pièce sur le site d'un des fournisseurs d'ESILV (voir la liste plus bas) 
-
-*le prix HT et TTC 
-
+Prix TTC : 2 euros / unité
  
 
 Dans le cadre des projets scolaires, ce sont les labos d'ESILV qui passeront les commandes. Il faut que les 
