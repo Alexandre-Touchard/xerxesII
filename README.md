@@ -22,8 +22,7 @@ Dispositif permettant de remplir tout type de gros récipient ou reservoir et qu
 L'intêret est de pouvoir contrôler le niveau d'eau ( ou d'un autre liquide non corrosif) de n'importe quelle type de récipient. Prenons l'exemple d'une piscine gonflable 
 de 2000 litres, l'utilisateur sait pertinement que le remplissage prendra plusieurs heure et n'a pas envie de constamment venir verifier le niveau d'eau de la piscine. Il
 souhaite réaliser une autre activitée pendant ce temps la.
-Il vas donc placer un pointeur laser à l'endroit ou il veut que l'eau s'arrête de couler. Lorsque le liquide atteindra ce niveau, l'utilisateur sera
-alerté sur son mobile et pourra éventuelement consulter des informations relatives au remplissage du récipent (tel que la température) et pourra bien évidemment aller stopper 
+Il vas donc placer un autocollant RFID à l'endroit ou il veut que l'eau s'arrête de couler. Lorsque le liquide atteindra ce niveau, l'utilisateur sera alerté sur son mobile et pourra éventuelement consulter des informations relatives au remplissage du récipent (tel que la température) et pourra bien évidemment aller stopper 
 le remplissage manuelement. 
 L'interêt est donc le fait que le dispositif est adapté à tout type de contenant.
 
@@ -38,10 +37,9 @@ Un particulier souhaitant remplir tout type de contenant avec un liquide quelcon
 2.4. Comment ? 
 
 Mon objet est décomposé en trois parties: 
-la première partie est une sorte de pointeur laser qui se colle sur une paroi et vas donc pointer un faisceau laser vers un capteur laser fixer sur une autre paroi.
-la 3ème partie du dispositif est une plateforme flottante. Lorsqu'elle se positionnera sur la trajectoire du faisceau laser elle alertera l'utilisateur que le volume
-d'eau souhaité est atteind.
-Cette plateforme est donc composé d'un capteur de température et d'un dispositif relié à la fois au capteur laser et au téléphone de l'utilisateur, le tout est fixé à un flotteur.
+la première partie est transpondeur RFID qui se colle sur une paroi.
+La 2ème partie du dispositif est une plateforme flottante. Lorsqu'elle se positionnera au même niveau que le transpondeur alertera l'utilisateur que le volume d'eau souhaité est atteind.
+Cette plateforme est donc composé d'un capteur de température et d'un dispositif RFID ainsi que d'une borne wifi relié au téléphone de l'utilisateur, le tout est fixé à un flotteur.
 Une application mobile est donc nécessaire pour alerter l'utilisateur et lui donner des informations relatif au remplissage du reservoir.
 
  
@@ -55,7 +53,7 @@ Une application mobile est donc nécessaire pour alerter l'utilisateur et lui do
 
 4.2. Diagramme états-transitions 
 
- lien de l'image : http://hpics.li/49dbabc
+ lien de l'image : http://hpics.li/ba8d4e2
 
 4. Description matériel 
 
