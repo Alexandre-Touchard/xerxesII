@@ -65,10 +65,19 @@ http://hpics.li/46f6f31
 
 4.2. Liste des éléments à acheter pour le fabriquer 
 
-http://www.lextronic.fr/P1503-carte-transpondeur-rfid-card1.html  Transpondeur RFID à placer à l'endroit ou le niveau d'eau
-sera détécté
+Transpondeur RFID:
+à placer à l'endroit ou le niveau d'eau sera détécté
 
 Prix TTC : 2 euros / unité
+lien : http://www.lextronic.fr/P1503-carte-transpondeur-rfid-card1.html
+
+Module RFID:
+connecté sur la plateforme flottante
+
+Prix TTC : 27,60 euros
+Prix HT : 23 euros
+lien: http://www.lextronic.fr/P1476-module-oem-rfid-um-005.html
+
  
 
 Dans le cadre des projets scolaires, ce sont les labos d'ESILV qui passeront les commandes. Il faut que les 
